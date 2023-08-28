@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Jan and I am a Bachelor of Engineering Student at the University of Applied sciences and Arts in Bielefeld, Germany.
+I am interested in a lot of topics of development, including programming languages like Rust, Go, or technologies like Search Engines, Compilers, AI and a lot of other topics.
+
+
 <!--
 **S4ndf1re/S4ndf1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
