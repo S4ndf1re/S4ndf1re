@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jan and I am currently working on my Master of Science Student at the University of Applied sciences and Arts in Bielefeld, Germany.
+My name is Jan and I am currently working on my Master of Science at the University of Applied sciences and Arts in Bielefeld, Germany.
 I am interested in a lot of topics of development, including programming languages like Rust, Go, or technologies like Search Engines, Compilers, AI and a lot of other topics.
 
 
